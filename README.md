@@ -41,7 +41,7 @@
 - **Языки программирования**: Python, Bash, SQL
 - **Фреймворки**: Django, DRF, Flask, FastAPI
 - **Базы данных**: PostgreSQL, SQLite
-- **DevOps**: CI/CD, GitHub, GitLab, Docker, Nginx, Vagrant, Ansible, Kubernetes, Prometheus, Grafana.
+- **DevOps**: CI/CD, GitHub, GitLab, Docker, Nginx, Apache, Vagrant, Ansible, Kubernetes, Prometheus, Grafana.
 - **Операционные системы**: Linux (Debian based, RHEL based)
 - **Другие технологии**: (список пополняется)
 
@@ -57,8 +57,12 @@
 
 Если у вас есть идеи для сотрудничества или вопросы по моим проектам, не стесняйтесь обращаться!
 
-- Email: oleynikovis@yandex.ru
-- TG: @Elijah_iSO
+<a href="mailto:oleynikovis@yandex.ru">
+  <img src="https://img.shields.io/badge/Email-oleynikovis@yandex.ru-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://t.me/Elijah_iSO">
+  <img src="https://img.shields.io/badge/Telegram-@Elijah_iSO-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
 
 ## 📈 GitHub статистика
 
